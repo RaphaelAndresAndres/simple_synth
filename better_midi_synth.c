@@ -189,7 +189,7 @@ void removeKey(int message)
         }
     }
 }
-
+//
 void *setupMidiDevice(void *vargp)
 {
     printf("Setting up midi device...\n");
